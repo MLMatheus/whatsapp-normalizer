@@ -8,3 +8,11 @@ bastante desconfortável.
 ## Como usar?</h2>
 Após a instalação, não é necessária nenhuma ação ou configuração. Basta utilizar o WhatsApp normalmente e
 esquecer que esse bug um dia existiu
+
+## Histórico de alterações
+### V1.0
+* Implementada funcionalidade para normalizar os caracteres Unicode no WhatsApp Desktop
+
+### V1.1
+* Corrigido imcompatibilidade com outros addons, obrigado @nunotfc pela contribuição!
+* Mensagens copiadas no WhatsApp agora são normalizadas

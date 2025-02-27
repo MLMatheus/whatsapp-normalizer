@@ -28,7 +28,7 @@ addon_info = {
 garantindo que sejam exibidas corretamente para o usuários do NVDA."""),
     
     # version
-    "addon_version": "1.0",
+    "addon_version": "1.1",
     
     # Author(s)
     "addon_author": "Matheus Lima",

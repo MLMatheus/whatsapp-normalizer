@@ -1,1 +1,3 @@
-Use this file to explain what has changed in your add-on since the previous release. This will be included automatically in the release description when used with GitHub actions.
+### V1.1
+* Corrigido imcompatibilidade com outros addons, obrigado @nunotfc pela contribuição!
+* Mensagens copiadas no WhatsApp agora são normalizadas
